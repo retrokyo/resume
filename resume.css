@@ -1,0 +1,41 @@
+html,
+body {
+  max-width: 210mm;
+  max-height: 297mm;
+}
+
+.header {
+  background-color: rgba(66, 245, 182, 0.2);
+}
+
+.profile-pic {
+  transform: scale(10%, 10%);
+  margin-top: -755px;
+  margin-left: -1170px;
+}
+
+.profile-pic-span {
+  height: 150px;
+  width: 150px;
+  overflow: hidden;
+}
+
+.border-3 {
+  border-width: 3px !important;
+}
+
+.pro-skills {
+  background-color: rgba(66, 245, 182, 0.2);
+}
+
+.rakuten {
+  background-color: rgba(66, 245, 182, 0.2);
+}
+
+.honestbee {
+  background-color: rgba(66, 245, 182, 0.2);
+}
+
+.quickdesc {
+  overflow-wrap: break-word;
+}
