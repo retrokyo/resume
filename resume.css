@@ -1,17 +1,13 @@
-html,
-body {
-  max-width: 210mm;
-  max-height: 297mm;
-}
-
 .header {
   background-color: rgba(66, 245, 182, 0.2);
 }
 
-.profile-pic {
-  transform: scale(10%, 10%);
-  margin-top: -755px;
-  margin-left: -1170px;
+.border-3 {
+  border-width: 3px !important;
+}
+
+.profile-pic-div {
+  max-width: 150px;
 }
 
 .profile-pic-span {
@@ -20,8 +16,14 @@ body {
   overflow: hidden;
 }
 
-.border-3 {
-  border-width: 3px !important;
+.profile-pic {
+  transform: scale(10%, 10%);
+  margin-top: -755px;
+  margin-left: -1170px;
+}
+
+.title {
+  max-height: 150px;
 }
 
 .pro-skills {
