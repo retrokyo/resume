@@ -11,15 +11,15 @@
 }
 
 .profile-pic-span {
-  height: 150px;
-  width: 150px;
+  max-width: 150px;
+  max-height: 150px;
+  width: 100%;
+  height: auto;
   overflow: hidden;
 }
 
 .profile-pic {
-  transform: scale(10%, 10%);
-  margin-top: -755px;
-  margin-left: -1170px;
+  max-width: 100%;
 }
 
 .title {
