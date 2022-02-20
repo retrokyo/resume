@@ -21,6 +21,12 @@
   }
 }
 
+@include media-breakpoint-up(md) {
+  .profile-md {
+      max-width: 150px !important;
+  }
+}
+
 html {
   scroll-behavior: smooth;
   scroll-margin-top: 10px;

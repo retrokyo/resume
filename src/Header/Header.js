@@ -6,7 +6,7 @@ import profilePic from "../resume_img_sq.jpeg";
 function Header() {
   return (
     <Row className="gx-0">
-      <Col md="3" className="d-flex image-center profilePicDiv px-0">
+      <Col md="3" className="d-flex image-center profilePicDiv profile-md px-0">
         <Image roundedCircle src={profilePic} className="profilePic border"></Image>
       </Col>
       <Col md="9" className="title ps-md-4">
