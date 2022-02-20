@@ -15,7 +15,7 @@ function App() {
       <Container fluid className="text-light">
         <Header />
         <Row className="gx-0 mt-4">
-          <Col md="4" className="border-end border-3 border-light px-2">
+          <Col md="4" className="border-md-end border-end border-3 border-light px-2">
             <Contact />
             <ProSkills />
             <DevSkills />

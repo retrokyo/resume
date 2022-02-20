@@ -1,3 +1,14 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/functions";
+
+@include media-breakpoint-down(md) {
+  .border-md-end {
+    border-right: none !important;
+  }
+}
+
 html {
   scroll-behavior: smooth;
   scroll-margin-top: 10px;
