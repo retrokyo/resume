@@ -1,0 +1,12 @@
+.profilePicDiv {
+    max-height: 150px;
+  }
+
+.profilePic{
+    max-width: 150px;
+    height: auto;
+}
+
+.title {
+    min-height: 150px;
+}
