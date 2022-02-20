@@ -13,7 +13,7 @@ function CustomNavbar(props) {
       collapseOnSelect
       expand="lg"
       fixed="top"
-      className="border-bottom border-3 border-light"
+      className="border-bottom border-3 border-light printable-invis"
     >
       <Navbar.Brand href="#top">Reeves Froning</Navbar.Brand>
       <Navbar.Toggle aria-controls="navbarCollapse" />

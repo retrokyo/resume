@@ -103,7 +103,7 @@ function WorkExp() {
           <h5>honestbee</h5>
           <h6>2018-08 - 2019-08</h6>
           <ul className="list-group list-group-flush">
-            <li className="list-group-item px-2 py-1 bg-transparent border-light">
+            <li className="list-group-item px-2 py-1 bg-transparent border-dark">
               <p className="fs-6 mb-1 text-dark">
                 Contextualized the operations team’s pain points, identifying
                 the utilization of delivery staff for our grocery delivery
@@ -113,7 +113,7 @@ function WorkExp() {
                 pandas, matplolib, and folium, along with Excel.
               </p>
             </li>
-            <li className="list-group-item px-2 py-1 bg-transparent border-light">
+            <li className="list-group-item px-2 py-1 bg-transparent border-dark">
               <p className="fs-6 mb-1 text-dark">
                 Improved contractual delivery personnel hiring rate, through the
                 virtualization of entire on-boarding process by building a link
@@ -121,7 +121,7 @@ function WorkExp() {
                 inside Google Apps Script.
               </p>
             </li>
-            <li className="list-group-item px-2 py-1 bg-transparent border-light">
+            <li className="list-group-item px-2 py-1 bg-transparent border-dark">
               <p className="fs-6 mb-1 text-dark">
                 Supported our food delivery vertical with analytics for
                 targeting areas for restaurant acquisition, reducing cost of
@@ -129,13 +129,13 @@ function WorkExp() {
                 Excel.
               </p>
             </li>
-            <li className="list-group-item px-2 py-1 bg-transparent border-light">
+            <li className="list-group-item px-2 py-1 bg-transparent border-dark">
               <p className="fs-6 mb-1 text-dark">
                 Drafted phase one of a fleet optimization system using
                 Dijkstra's shortest path algorithm.
               </p>
             </li>
-            <li className="list-group-item px-2 py-1 bg-transparent border-light">
+            <li className="list-group-item px-2 py-1 bg-transparent border-dark">
               <p className="fs-6 mb-1 text-dark">
                 Performed Time Series Analysys for capacity planning of number
                 of drivers available for assignement on a per shop basis, based

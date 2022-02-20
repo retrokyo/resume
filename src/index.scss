@@ -35,6 +35,12 @@
   }
 }
 
+.printable-invis {
+  @media print {
+    visibility: hidden !important;
+  }
+}
+
 html {
   scroll-behavior: smooth;
   scroll-margin-top: 10px;
