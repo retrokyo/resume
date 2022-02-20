@@ -7,10 +7,10 @@ function DevSkills() {
       </h5>
       <ul className="list-group list-group-flush">
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-white">Go Lang</p>
+          <p className="fs-6 mb-1 text-light printable">Go Lang</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-white">Java</p>
+          <p className="fs-6 mb-1 text-light printable">Java</p>
         </li>
       </ul>
       <h5>
@@ -18,13 +18,13 @@ function DevSkills() {
       </h5>
       <ul className="list-group list-group-flush">
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-white">Dask (Python distributed DataFrames)</p>
+          <p className="fs-6 mb-1 text-light printable">Dask (Python distributed DataFrames)</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-white">Flask (Python Micro Web Server)</p>
+          <p className="fs-6 mb-1 text-light printable">Flask (Python Micro Web Server)</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-white">Click (Python CLI package)</p>
+          <p className="fs-6 mb-1 text-light printable">Click (Python CLI package)</p>
         </li>
       </ul>
       <h5>

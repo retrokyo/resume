@@ -27,6 +27,14 @@
   }
 }
 
+.printable {
+  @media print {
+    color: $dark !important;
+    justify-content: start !important;
+    visibility: visible !important;
+  }
+}
+
 html {
   scroll-behavior: smooth;
   scroll-margin-top: 10px;

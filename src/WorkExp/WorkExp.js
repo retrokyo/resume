@@ -60,7 +60,7 @@ function WorkExp() {
           <h6>2019-10 - 2021-04 | OYO Japan</h6>
           <ul className="list-group list-group-flush p-1 rounded">
             <li className="list-group-item px-2 py-1 bg-transparent border-light">
-              <p className="fs-6 mb-1 text-light">
+              <p className="fs-6 mb-1 text-light printable">
                 Created and maintained dashboard in Google Data Studio by
                 creating a pipeline between our Data Warehouse, and AWS’s S3
                 Cloud Object Storage via a combination of SQL, Python, and
@@ -68,7 +68,7 @@ function WorkExp() {
               </p>
             </li>
             <li className="list-group-item px-2 py-1 bg-transparent border-light">
-              <p className="fs-6 mb-1 text-light">
+              <p className="fs-6 mb-1 text-light printable">
                 Supported multiple business units analyst teams through crafting
                 multi sourced ETL pipelines pulling from user files, the Data
                 Warehouse, and publicly available data, with Python and Airflow
@@ -76,20 +76,20 @@ function WorkExp() {
               </p>
             </li>
             <li className="list-group-item px-2 py-1 bg-transparent border-light">
-              <p className="fs-6 mb-1 text-light">
+              <p className="fs-6 mb-1 text-light printable">
                 Supported marketing team by developing server-less Single Page
                 Web Apps for marketing landing pages using the React Framework
               </p>
             </li>
             <li className="list-group-item px-2 py-1 bg-transparent border-light">
-              <p className="fs-6 mb-1 text-light">
+              <p className="fs-6 mb-1 text-light printable">
                 Developed and maintained internally used Python packages for
                 easily interacting with the Data Warehouse, and other tools used
                 by analyst teams
               </p>
             </li>
             <li className="list-group-item px-2 py-1 bg-transparent border-light">
-              <p className="fs-6 mb-1 text-light">
+              <p className="fs-6 mb-1 text-light printable">
                 Supported front end development team in handling development
                 requests, for the React based web page, from marketing, and
                 branding teams

@@ -5,13 +5,13 @@ function ProSkills() {
       <h4>Coding Languages</h4>
       <ul className="list-group list-group-flush bg-transparent">
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">Python</p>
+          <p className="fs-6 mb-1 text-light printable">Python</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">JavaScript</p>
+          <p className="fs-6 mb-1 text-light printable">JavaScript</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">SQL</p>
+          <p className="fs-6 mb-1 text-light printable">SQL</p>
         </li>
       </ul>
       <h3>Frameworks/Tools</h3>
@@ -20,13 +20,13 @@ function ProSkills() {
       </h4>
       <ul className="list-group list-group-flush bg-transparent">
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">bootstrap</p>
+          <p className="fs-6 mb-1 text-light printable">bootstrap</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">React</p>
+          <p className="fs-6 mb-1 text-light printable">React</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">Express.js</p>
+          <p className="fs-6 mb-1 text-light printable">Express.js</p>
         </li>
       </ul>
       <h4>
@@ -34,16 +34,16 @@ function ProSkills() {
       </h4>
       <ul className="list-group list-group-flush bg-transparent">
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">pandas</p>
+          <p className="fs-6 mb-1 text-light printable">pandas</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">selenium</p>
+          <p className="fs-6 mb-1 text-light printable">selenium</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">requests</p>
+          <p className="fs-6 mb-1 text-light printable">requests</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">numpy</p>
+          <p className="fs-6 mb-1 text-light printable">numpy</p>
         </li>
       </ul>
       <h4>
@@ -51,24 +51,24 @@ function ProSkills() {
       </h4>
       <ul className="list-group list-group-flush bg-transparent">
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">
+          <p className="fs-6 mb-1 text-light printable">
             BI Tools (Looker, Google Data Studio, Kibana)
           </p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">Apache Airflow</p>
+          <p className="fs-6 mb-1 text-light printable">Apache Airflow</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">Cloud Technologies (AWS/GCP)</p>
+          <p className="fs-6 mb-1 text-light printable">Cloud Technologies (AWS/GCP)</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">Linux/Unix Systems</p>
+          <p className="fs-6 mb-1 text-light printable">Linux/Unix Systems</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">Kubernetes</p>
+          <p className="fs-6 mb-1 text-light printable">Kubernetes</p>
         </li>
         <li className="list-group-item py-1 bg-transparent border-light">
-          <p className="fs-6 mb-1 text-light">Docker</p>
+          <p className="fs-6 mb-1 text-light printable">Docker</p>
         </li>
       </ul>
     </div>

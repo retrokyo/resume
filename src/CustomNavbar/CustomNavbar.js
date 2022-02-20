@@ -1,6 +1,11 @@
 import { Nav, Navbar, NavDropdown } from "react-bootstrap";
+import { useReactToPrint } from "react-to-print";
 
-function CustomNavbar() {
+function CustomNavbar(props) {
+  const handlePrint = useReactToPrint({
+    content: () => props.printableRef.current,
+  });
+
   return (
     <Navbar
       variant="dark"
@@ -34,6 +39,9 @@ function CustomNavbar() {
               honestbee
             </NavDropdown.Item>
           </NavDropdown>
+        </Nav>
+        <Nav>
+          <Nav.Link href="#" onClick={handlePrint}>Print</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

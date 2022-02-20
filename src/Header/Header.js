@@ -16,6 +16,7 @@ function Header() {
           I am part software engineer, and part data analyst with a passion for
           learning and applying new technologies
         </p>
+        <p class="fs-6 mb-1 printable invisible text-center"><b>Web version:</b> https://retrokyo.github.io/resume</p>
       </Col>
     </Row>
   );
