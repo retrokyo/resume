@@ -9,6 +9,18 @@
   }
 }
 
+@include media-breakpoint-down(md) {
+  .text-center-md {
+    text-align: center !important;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .image-center {
+    justify-content: center;
+  }
+}
+
 html {
   scroll-behavior: smooth;
   scroll-margin-top: 10px;
