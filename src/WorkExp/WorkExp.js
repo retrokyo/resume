@@ -1,9 +1,12 @@
 function WorkExp() {
   return (
     <div className="d-flex flex-column justify-content-around ms-2 pb-2 border-bottom border-3 border-light">
-        <p className="display-6">Work Experience</p>
+      <p className="display-6">Work Experience</p>
       <div id="rakuten">
-        <div className="rakuten-info border border-secondary border-3 rounded p-2 bg-white text-dark" id="rakuten">
+        <div
+          className="rakuten-info border border-secondary border-3 rounded p-2 bg-white text-dark"
+          id="rakuten"
+        >
           <h5>Data Science Engineer</h5>
           <h6>2021-05 - Present | Rakuten Inc.</h6>
           <ul className="list-group list-group-flush p-1 rounded">
@@ -100,8 +103,8 @@ function WorkExp() {
       </div>
       <div id="honestbee">
         <div className="honestbee-info border border-secondary border-3 rounded p-2 bg-light text-dark">
-          <h5>honestbee</h5>
-          <h6>2018-08 - 2019-08</h6>
+          <h5>Buisiness Intelligence Analyst</h5>
+          <h6>2018-08 - 2019-08 | honestbee</h6>
           <ul className="list-group list-group-flush">
             <li className="list-group-item px-2 py-1 bg-transparent border-dark">
               <p className="fs-6 mb-1 text-dark">
